@@ -1,10 +1,3 @@
-
-"""
-@author: Ju Shen
-@email: jshen1@udayton.edu
-@date: 02-16-2023
-"""
-
 from RLearning import ReinforceLearning as RL
 from RLearning import State
 
