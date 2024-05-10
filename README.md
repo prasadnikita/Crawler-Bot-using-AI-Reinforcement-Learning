@@ -1,0 +1,1 @@
+This project focuses on implementing three reinforcement learning methods—Monte Carlo, Q-Learning, and Temporal Difference (TD) Learning—to optimize the walking behavior of a crawler bot. The bot, which is equipped with two arms, learns to navigate efficiently using the following approaches:
