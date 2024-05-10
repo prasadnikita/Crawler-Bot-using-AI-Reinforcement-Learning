@@ -1,9 +1,3 @@
-
-"""
-@author: Ju Shen
-@email: jshen1@udayton.edu
-@date: 03-16-2024
-"""
 import random
 import numpy as np
 import math as mth
